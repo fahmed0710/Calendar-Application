@@ -55,7 +55,6 @@ F 18:30 20:30  1/27/21 5/13/21
 After loading the events, the program prompts "Loading is done!".
 
 The program now displays a MAIN MENU with following options: View by, Create, Go to, Event list, Delete, and Quit. 
-After the function of an option is done, the main menu is displayed again for the user to choose the next option.
 
 Select one of the following main menu options:
 [V]iew by  [C]reate, [G]o to [E]vent list [D]elete  [Q]uit
